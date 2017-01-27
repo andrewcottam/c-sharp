@@ -1,0 +1,5 @@
+C:\Users\AndrewCottam\Documents\Visual Studio 2008\Projects\IUCNRedListSOE\IUCNRedListSOE\bin\Release\IUCNRedListSOE.dll
+C:\Users\AndrewCottam\Documents\Visual Studio 2008\Projects\IUCNRedListSOE\IUCNRedListSOE\bin\Release\IUCNRedListSOE.pdb
+C:\Users\AndrewCottam\Documents\Visual Studio 2008\Projects\IUCNRedListSOE\IUCNRedListSOE\obj\Release\ResolveAssemblyReference.cache
+C:\Users\AndrewCottam\Documents\Visual Studio 2008\Projects\IUCNRedListSOE\IUCNRedListSOE\obj\Release\IUCNRedListSOE.dll
+C:\Users\AndrewCottam\Documents\Visual Studio 2008\Projects\IUCNRedListSOE\IUCNRedListSOE\obj\Release\IUCNRedListSOE.pdb

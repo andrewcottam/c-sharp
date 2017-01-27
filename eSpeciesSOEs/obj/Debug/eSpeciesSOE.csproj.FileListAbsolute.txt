@@ -1,0 +1,5 @@
+C:\Users\AndrewCottam\Documents\Visual Studio 2008\Projects\eSpeciesSOE\eSpeciesSOE\bin\Debug\eSpeciesSOE.dll
+C:\Users\AndrewCottam\Documents\Visual Studio 2008\Projects\eSpeciesSOE\eSpeciesSOE\bin\Debug\eSpeciesSOE.pdb
+C:\Users\AndrewCottam\Documents\Visual Studio 2008\Projects\eSpeciesSOE\eSpeciesSOE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AndrewCottam\Documents\Visual Studio 2008\Projects\eSpeciesSOE\eSpeciesSOE\obj\Debug\eSpeciesSOE.dll
+C:\Users\AndrewCottam\Documents\Visual Studio 2008\Projects\eSpeciesSOE\eSpeciesSOE\obj\Debug\eSpeciesSOE.pdb

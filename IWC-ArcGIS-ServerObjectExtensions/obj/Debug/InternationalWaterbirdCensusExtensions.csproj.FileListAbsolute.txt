@@ -1,0 +1,5 @@
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\InternationalWaterbirdCensusExtensions\InternationalWaterbirdCensusExtensions\bin\Debug\InternationalWaterbirdCensusExtensions.dll
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\InternationalWaterbirdCensusExtensions\InternationalWaterbirdCensusExtensions\bin\Debug\InternationalWaterbirdCensusExtensions.pdb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\InternationalWaterbirdCensusExtensions\InternationalWaterbirdCensusExtensions\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\InternationalWaterbirdCensusExtensions\InternationalWaterbirdCensusExtensions\obj\Debug\InternationalWaterbirdCensusExtensions.dll
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\InternationalWaterbirdCensusExtensions\InternationalWaterbirdCensusExtensions\obj\Debug\InternationalWaterbirdCensusExtensions.pdb

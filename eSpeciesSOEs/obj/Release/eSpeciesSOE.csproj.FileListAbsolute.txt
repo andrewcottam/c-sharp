@@ -1,0 +1,10 @@
+C:\Users\AndrewCottam\AppData\Local\Temporary Projects\eSpeciesSOE\bin\Release\eSpeciesSOE.dll
+C:\Users\AndrewCottam\AppData\Local\Temporary Projects\eSpeciesSOE\bin\Release\eSpeciesSOE.pdb
+C:\Users\AndrewCottam\AppData\Local\Temporary Projects\eSpeciesSOE\obj\Release\ResolveAssemblyReference.cache
+C:\Users\AndrewCottam\AppData\Local\Temporary Projects\eSpeciesSOE\obj\Release\eSpeciesSOE.dll
+C:\Users\AndrewCottam\AppData\Local\Temporary Projects\eSpeciesSOE\obj\Release\eSpeciesSOE.pdb
+C:\Users\AndrewCottam\Documents\Visual Studio 2008\Projects\eSpeciesSOE\eSpeciesSOE\bin\Release\eSpeciesSOE.dll
+C:\Users\AndrewCottam\Documents\Visual Studio 2008\Projects\eSpeciesSOE\eSpeciesSOE\bin\Release\eSpeciesSOE.pdb
+C:\Users\AndrewCottam\Documents\Visual Studio 2008\Projects\eSpeciesSOE\eSpeciesSOE\obj\Release\ResolveAssemblyReference.cache
+C:\Users\AndrewCottam\Documents\Visual Studio 2008\Projects\eSpeciesSOE\eSpeciesSOE\obj\Release\eSpeciesSOE.dll
+C:\Users\AndrewCottam\Documents\Visual Studio 2008\Projects\eSpeciesSOE\eSpeciesSOE\obj\Release\eSpeciesSOE.pdb

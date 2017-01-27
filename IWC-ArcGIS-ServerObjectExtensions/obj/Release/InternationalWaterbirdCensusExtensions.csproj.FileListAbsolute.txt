@@ -1,0 +1,10 @@
+C:\Documents and Settings\Andrew\Local Settings\Application Data\Temporary Projects\InternationalWaterbirdCensusExtensions\bin\Release\InternationalWaterbirdCensusExtensions.dll
+C:\Documents and Settings\Andrew\Local Settings\Application Data\Temporary Projects\InternationalWaterbirdCensusExtensions\bin\Release\InternationalWaterbirdCensusExtensions.pdb
+C:\Documents and Settings\Andrew\Local Settings\Application Data\Temporary Projects\InternationalWaterbirdCensusExtensions\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrew\Local Settings\Application Data\Temporary Projects\InternationalWaterbirdCensusExtensions\obj\Release\InternationalWaterbirdCensusExtensions.dll
+C:\Documents and Settings\Andrew\Local Settings\Application Data\Temporary Projects\InternationalWaterbirdCensusExtensions\obj\Release\InternationalWaterbirdCensusExtensions.pdb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\InternationalWaterbirdCensusExtensions\InternationalWaterbirdCensusExtensions\bin\Release\InternationalWaterbirdCensusExtensions.dll
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\InternationalWaterbirdCensusExtensions\InternationalWaterbirdCensusExtensions\bin\Release\InternationalWaterbirdCensusExtensions.pdb
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\InternationalWaterbirdCensusExtensions\InternationalWaterbirdCensusExtensions\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\InternationalWaterbirdCensusExtensions\InternationalWaterbirdCensusExtensions\obj\Release\InternationalWaterbirdCensusExtensions.dll
+C:\Documents and Settings\Andrew\My Documents\Visual Studio 2008\Projects\InternationalWaterbirdCensusExtensions\InternationalWaterbirdCensusExtensions\obj\Release\InternationalWaterbirdCensusExtensions.pdb
